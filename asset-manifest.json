@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contest-sch/static/css/main.408dccd5.css",
+    "main.js": "/contest-sch/static/js/main.ca3892f3.js",
+    "static/js/787.ac5b95c1.chunk.js": "/contest-sch/static/js/787.ac5b95c1.chunk.js",
+    "static/media/Nexa Bold.otf": "/contest-sch/static/media/Nexa Bold.c2b99812f7617bd31a22.otf",
+    "index.html": "/contest-sch/index.html",
+    "main.408dccd5.css.map": "/contest-sch/static/css/main.408dccd5.css.map",
+    "main.ca3892f3.js.map": "/contest-sch/static/js/main.ca3892f3.js.map",
+    "787.ac5b95c1.chunk.js.map": "/contest-sch/static/js/787.ac5b95c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.408dccd5.css",
+    "static/js/main.ca3892f3.js"
+  ]
+}
