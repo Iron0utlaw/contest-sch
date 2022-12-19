@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/contest-sch/static/css/main.25fd0eb1.css",
+    "main.css": "/contest-sch/static/css/main.c10dd535.css",
     "main.js": "/contest-sch/static/js/main.a28ddf18.js",
     "static/js/787.ac5b95c1.chunk.js": "/contest-sch/static/js/787.ac5b95c1.chunk.js",
     "static/media/Nexa Bold.otf": "/contest-sch/static/media/Nexa Bold.c2b99812f7617bd31a22.otf",
     "index.html": "/contest-sch/index.html",
-    "main.25fd0eb1.css.map": "/contest-sch/static/css/main.25fd0eb1.css.map",
+    "main.c10dd535.css.map": "/contest-sch/static/css/main.c10dd535.css.map",
     "main.a28ddf18.js.map": "/contest-sch/static/js/main.a28ddf18.js.map",
     "787.ac5b95c1.chunk.js.map": "/contest-sch/static/js/787.ac5b95c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25fd0eb1.css",
+    "static/css/main.c10dd535.css",
     "static/js/main.a28ddf18.js"
   ]
 }
